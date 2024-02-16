@@ -1,10 +1,11 @@
-COC - IANA SYSTEMS at www.iana.io/coc
+# Code of Conduct
+IANA SYSTEMS or IanaIO at www.iana.io/coc
 
-- Code of Conduct -
+COC - Code of Conduct
 
-The code of conduct which you are required to follow to foster a safe and inclusive environment in the IanaIO community.
+The code of conduct which you are required to follow to foster a safe and inclusive environment in the IANA SYSTEMS or IanaIO community.
 
-Laptop stickers with one that has a photo of Mr. Rogers and says "Be Kind"Laptop stickers with one that has a photo of Mr. Rogers and says "Be Kind"
+Laptop stickers with one that has a photo of Elon Musk says "Be Kind".
 This code of conduct applies to all community sites, events, and workshops (hereafter referred to simply as "events") run and managed by IanaIO - IANA SYSTEMS team.
 
 In addition to these rules of conduct, everyone participating in events is encouraged to abide by the Recurse Center Social Rules:
