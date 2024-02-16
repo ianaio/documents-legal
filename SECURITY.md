@@ -2,7 +2,7 @@
 
 ## Security
 
-IanaIO takes the security of our software products and services seriously, which includes all source code repositories managed through our GitHub organizations, which include [IanaIO](https://github.com/iana), [proudamerica.us](https://github.com/proudamericaus), and [our GitHub organizations](https://opensource.iana.io/).
+	IanaIO takes the security of our software products and services seriously, which includes all source code repositories managed through our GitHub organizations, which include [IanaIO - www.iana.io](https://github.com/ianaio), [Proud America - proudamerica.us](https://github.com/proudamerica-us), [Crypto Search](https://github.com/crypto-search-engine), and [our GitHub organizations](https://opensource.iana.io/).
 
 If you believe you have found a security vulnerability in any IanaIO-owned repository that meets [IanaIO's definition of a security vulnerability](https://docs.iana.io/en-us/msrc/definition-of-a-security-vulnerability?rtc=1), please report it to us as described below.
 
