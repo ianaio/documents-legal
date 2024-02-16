@@ -1,4 +1,6 @@
-IanaIO - Code of Conduct
+COC - IANA SYSTEMS at www.iana.io/coc
+
+- Code of Conduct -
 
 The code of conduct which you are required to follow to foster a safe and inclusive environment in the IanaIO community.
 
@@ -17,7 +19,7 @@ All attendees, speakers, instructors, and volunteers at our event are required t
 Have questions/need to report an issue?
 Email us at:
 
-coc@iana.io - www.iana.io/coc
+coc@iana.io
 
 # The Quick Version
 
@@ -40,3 +42,5 @@ Author
 Jaroslaw Cichon
 coc@iana.io
 
+For more information please visit this website.
+https://creativecommons.org/
