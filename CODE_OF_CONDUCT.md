@@ -42,8 +42,9 @@ If you are being harassed, notice that someone else is being harassed, or have a
 
 Event staff will be happy to help participants contact venue security or local law enforcement, provide escorts, or otherwise assist those experiencing harassment to feel safe for the duration of the event. We value your attendance.
 
-# Content moderation - IanaIO uderstand that this is contrary to free speech
+# Content moderation. 
 
+IanaIO uderstand that this is contrary to free speech.
 A word for vulgar and sarcastic people.
 Roast the whole idea of “content moderation”.
 
@@ -56,7 +57,12 @@ In conclusion, content moderation is a steaming pile of horse manure, and the pl
 
 We expect participants to follow these rules at event and all venues and event-related social events.
 
+The example:
+You cannot say this: Man you're fat and gay.
+But you can say this: Man this app is really gay because..
+
 Author:
 Jaroslaw Cichon
+
 coc@iana.io
 
