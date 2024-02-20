@@ -55,7 +55,7 @@ In conclusion, content moderation is a steaming pile of horse manure, and the pl
 
 We expect participants to follow these rules at event and all venues and event-related social events.
 ~
-Author
+Author:
 Jaroslaw Cichon
 coc@iana.io
 
